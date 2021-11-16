@@ -47,7 +47,7 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1 tvg-id="201" group-title="ASTRO" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" ,HBO
+#EXTINF:-1 tvg-id="201" group-title="ASTRO" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png",HBO
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 http://50.7.161.82:8277/streams/d/Hbo/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_3_13001/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
