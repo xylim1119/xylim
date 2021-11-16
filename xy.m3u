@@ -105,50 +105,25 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIE/ENTERTAINMENT", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482837.png" group-title="ASTRO 1", ASTRO AEC HD
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482838.jpg" group-title="ASTRO 1", ASTRO XIANTAIYANG HD
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482839.jpg" group-title="ASTRO 1", ASTRO HUAHEE HD
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" group-title="ASTRO 1", Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487190.png" group-title="ASTRO 1", ASTRO SHUANGXING HD
-http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487191.png" group-title="ASTRO 1", ASTRO QIYI HD
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487198.jpg" group-title="ASTRO 1", XINHE
-http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="ASTRO 1", Astro Quan Jia
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="ASTRO 1", ASTRO QUANJIA HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487223.png" group-title="ASTRO 1", ASTRO AOD HD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="ASTRO 1", Astro Xiao Tai Yang HD 2[Backup]
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="ASTRO 1", Astro Xiao Tai Yang HD BACKUP
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893989.png" group-title="ASTRO 1", tVN movies HD
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO 1", tvN EN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/0ef6c2b902832a905d3dc.png" group-title="ASTRO 1", CTI Asia
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO 1", Naura HD CH109
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/4b330adb1e719b7a8720c.jpg" group-title="ASTRO 1", TVB News CH318
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="ASTRO 1", CCM 天映经典 CH321
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="ASTRO 1", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg" group-title="ASTRO 1", Astro 华丽台 [TVB Jade]
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893898.jpg" group-title="ASTRO 1", ASTRO Oh!K HD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="ASTRO 1", GO SHOP
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="ASTRO 1", Drama Sangat [Backup]
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
  
