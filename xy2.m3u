@@ -78,10 +78,10 @@ http://50.7.161.82:8277/streams/d/HGTV/playlist.m3u8
 http://50.7.161.82:8277/streams/d/xiaotaiyang_pye/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Xiaotaiyang/playlist.m3u8
 
+#EXTINF:-1 group-title="ASTRO" group-title="ASTRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
+http://50.7.161.82:8277/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 tvg-ID=HuaHeeDai.my group-title="ASTRO" tvg-logo="https://i.imgur.com/y6p2lm0.png",HUA HEE DAI
 http://50.7.161.82:8277/streams/d/huanxi_pye/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="ASTRO", QUAN JIA
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-ID=Xinhe.my group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/xinghe.png",TVB XING HE
 http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="CelestialMovies" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="ASTRO",CELESTIAL MOVIES
@@ -89,8 +89,7 @@ http://50.7.161.82:8277/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="ASTRO",CELESTIAL CLASSIC MOVIES
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 group-title="ASTRO" group-title="ASTRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
-http://50.7.161.82:8277/streams/d/Shuangxing/playlist.m3u8
+
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO", tvN EN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO", Naura HD CH109
@@ -99,7 +98,7 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 
 
-#EXTINF:-1 group-title=“NEWS” tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
