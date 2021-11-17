@@ -91,11 +91,11 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="ASTRO", CCM 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 tvg-ID=ShuangXing.my group-title="BACKUP" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
+#EXTINF:-1 tvg-ID=ShuangXing.my group-title="ASTRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
 http://50.7.161.82:8277/streams/d/Shuangxing/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO 1", tvN EN HD
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO", tvN EN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO 1", Naura HD CH109
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO", Naura HD CH109
 
 
 
