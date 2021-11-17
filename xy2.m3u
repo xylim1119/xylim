@@ -87,45 +87,39 @@ http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="CelestialMovies" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial%20movies.png" group-title="ASTRO",CELESTIAL MOVIES
 http://50.7.161.82:8277/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="ASTRO",CELESTIAL CLASSIC MOVIES
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="ASTRO", CCM 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1 tvg-ID=ShuangXing.my group-title="ASTRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
+#EXTINF:-1 group-title="ASTRO" group-title="ASTRO" tvg-logo="https://i.imgur.com/VgoXPxV.png",SHUANG XING
 http://50.7.161.82:8277/streams/d/Shuangxing/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO", tvN EN HD
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="ASTRO", tvN EN HD
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO", Naura HD CH109
-
-
-
-#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="ASTRO",WARNA
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO", Naura HD CH109
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png",WARNA
 http://190.2.133.47:8277/streams/d/Warna/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="ChannelNewsAsia" group-title=“NEWS” tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
+#EXTINF:-1 group-title=“NEWS” tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id=" " group-title="NEWS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsHD" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",SKY NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",SKY NEWS
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 tvg-id="TRTWorld" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="ArirangTVHD" group-title="NEWS" tvg-logo="http://arirang.com/images/index/arirang.png",ARIRANG TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://arirang.com/images/index/arirang.png",ARIRANG TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="NHKWorldHD" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK WORLD JAPAN
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id=" " group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="FOREIGN", ONE HD
+#EXTINF:-1 group-title="FOREIGN" tvg-logo="http://127.0.0.1/", ONE HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="FOREIGN", TVN
+#EXTINF:-1 group-title="FOREIGN" tvg-logo="http://127.0.0.1/", TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="kbsworld" group-title="FOREIGN" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
+#EXTINF:-1 group-title="FOREIGN" tvg-chno="63" tvg-id="kbsworld" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
 http://50.7.161.82:8277/streams/d/KBS/playlist.m3u8
 
 
