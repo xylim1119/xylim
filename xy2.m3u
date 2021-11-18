@@ -64,6 +64,10 @@ http://50.7.161.82:8277/streams/d/Rtmsport/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="HBOHD" tvg-id="HBOHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MOVIE/ENTERTAINMENT",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: STAR CINEMA 1" tvg-logo="" group-title="MOVIE/ENTERTAINMENT",AR: STAR CINEMA 1
+http://xantartv.com:8080/Eslam6864/kolchitv.com/1789
+#EXTINF:-1 tvg-id="" tvg-name="AR: STAR CINEMA 2" tvg-logo="" group-title="MOVIE/ENTERTAINMENT",AR: STAR CINEMA 2
+http://xantartv.com:8080/Eslam6864/kolchitv.com/1790
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkMhGzL/404-300.png" group-title="MOVIE/ENTERTAINMENT",BOO
 http://50.7.161.82:8277/streams/d/Boo/playlist.m3u8
 
