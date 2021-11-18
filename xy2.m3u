@@ -121,8 +121,6 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="FOREIGN" tvg-chno="63" tvg-id="kbsworld" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/kbs%20world.png",KBS WORLD
 http://50.7.161.82:8277/streams/d/KBS/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="MK: TV +" tvg-logo="http://ky-iptv.com:25461/images/f1af81d7dcf6dbf87524fa445d5e032c.png" group-title="Macedonia",MK: TV +
-http://ky-iptv.com:25461/moke/moke123/188814
 #EXTINF:-1 tvg-id="" tvg-name="MY Astro ASTRO CRICKET" tvg-logo="" group-title="Malaysia",MY Astro ASTRO CRICKET
 http://ky-iptv.com:25461/moke/moke123/940585
 #EXTINF:-1 tvg-id="" tvg-name="MY: Channel News Asia" tvg-logo="http://ky-iptv.com:25461/images/6d5f1c9f110a23941b01aec62d258e10.png" group-title="Malaysia",MY: Channel News Asia
