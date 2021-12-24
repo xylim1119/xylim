@@ -680,37 +680,37 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/248.ts
 #EXTINF:-1 tvg-id="404" tvg-name="Astro BOO (ENG)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="Malaysia: IPTV4K",Astro BOO (ENG)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/33.ts
-#EXTINF:-1 tvg-id="CHN tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malaysia: IPTV4K",NET
+#EXTINF:-1 tvg-name="NET" tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malaysia: IPTV4K",NET
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/41.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="Malaysia: IPTV4K",ANTV
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="Malaysia: IPTV4K",ANTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/42.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malaysia: IPTV4K",INDOSIAR
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="Malaysia: IPTV4K",INDOSIAR
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/36.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="Malaysia: IPTV4K",TRANS TV
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="Malaysia: IPTV4K",TRANS TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/34.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="Malaysia: IPTV4K",TRANS 7
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="Malaysia: IPTV4K",TRANS 7
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/35.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malaysia: IPTV4K",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="Malaysia: IPTV4K",SCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/37.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="Malaysia: IPTV4K",MNCTV
+#EXTINF:-1 tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="Malaysia: IPTV4K",MNCTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/40.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="Malaysia: IPTV4K",RCTI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="Malaysia: IPTV4K",RCTI
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/38.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="Malaysia: IPTV4K",GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="Malaysia: IPTV4K",GTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/39.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="TVRI" tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="Malaysia: IPTV4K",TVRI
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="Malaysia: IPTV4K",TVRI
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/208.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="RTV" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malaysia: IPTV4K",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Malaysia: IPTV4K",RTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/210.ts
 #EXTINF:-1 tvg-id="310" tvg-name="TVBJ" tvg-logo="https://i.imgur.com/aPpmN9s.png" group-title="Malaysia: IPTV4K",TVBJ
@@ -728,7 +728,7 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/47.ts
 #EXTINF:-1 tvg-id="300" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/PmF1dwz/iq.png" group-title="Malaysia: IPTV4K",IQiyi
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wah Lai Toi" tvg-logo="https://i.ibb.co/DM8VsBC/wah.png" group-title="Malaysia: IPTV4K",Wah Lai Toi
+#EXTINF:-1 tvg-name="Wah Lai Toi" tvg-logo="https://i.ibb.co/DM8VsBC/wah.png" group-title="Malaysia: IPTV4K",Wah Lai Toi
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/45.ts
 #EXTINF:-1 tvg-id="307" tvg-name="Astro Shuang Xing" tvg-logo="https://i.imgur.com/VgoXPxV.png" group-title="Malaysia: IPTV4K",Astro Shuang Xing
@@ -755,28 +755,28 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/49.ts
 #EXTINF:-1 tvg-id="321" tvg-name="Celestial Classic Movies_A" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="Malaysia: IPTV4K",Celestial Classic Movies_A
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/50.ts
-#EXTINF:-1 tvg-id="321" tvg-name="Celestial Classic Movies_B" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="Malaysia: IPTV4K",Celestial Classic Movies_B
+#EXTINF:-1 tvg-name="Celestial Classic Movies_B" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="Malaysia: IPTV4K",Celestial Classic Movies_B
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/51.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/8ckFTS0/STAR.png" group-title="Malaysia: IPTV4K",Star Chinese Movies
+#EXTINF:-1 tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/8ckFTS0/STAR.png" group-title="Malaysia: IPTV4K",Star Chinese Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/53.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Astro First" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="Malaysia: IPTV4K",Astro First
+#EXTINF:-1 tvg-name="Astro First" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="Malaysia: IPTV4K",Astro First
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/472.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Astro First" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="Malaysia: IPTV4K",Astro First 2
+#EXTINF:-1 tvg-name="Astro First" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="Malaysia: IPTV4K",Astro First 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/354.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="007" tvg-logo="https://i.imgur.com/FZOJUDa.png" group-title="Malaysia: IPTV4K",007
+#EXTINF:-1 tvg-name="007" tvg-logo="https://i.imgur.com/FZOJUDa.png" group-title="Malaysia: IPTV4K",007
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/470.ts
-#EXTINF:-1 tvg-id="411" tvg-name="HBO (B)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="Malaysia: IPTV4K",HBO (B)
+#EXTINF:-1 tvg-name="HBO (B)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="Malaysia: IPTV4K",HBO (B)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/235.ts
 #EXTINF:-1 tvg-id="411" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="Malaysia: IPTV4K",HBO (M)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/54.ts
-#EXTINF:-1 tvg-id="411" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="Malaysia: IPTV4K",HBO (ID)
+#EXTINF:-1 tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="Malaysia: IPTV4K",HBO (ID)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/346.ts
 #EXTINF:-1 tvg-id="415" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="Malaysia: IPTV4K",HBO Hits
@@ -785,60 +785,60 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/55.ts
 #EXTINF:-1 tvg-id="414" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="Malaysia: IPTV4K",HBO Family
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/56.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="Malaysia: IPTV4K",HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="Malaysia: IPTV4K",HBO Signature
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/57.ts
 #EXTINF:-1 tvg-id="413" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="Malaysia: IPTV4K",SHOWCASE MOVIES
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/419.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema" tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="Malaysia: IPTV4K",MyCinema
+#EXTINF:-1 tvg-name="MyCinema" tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="Malaysia: IPTV4K",MyCinema
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/414.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="Malaysia: IPTV4K",MyCinema Asia
+#EXTINF:-1 tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="Malaysia: IPTV4K",MyCinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/415.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="MyFamily Cinema" tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="Malaysia: IPTV4K",MyFamily Cinema
+#EXTINF:-1 tvg-name="MyFamily Cinema" tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="Malaysia: IPTV4K",MyFamily Cinema
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/416.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="Malaysia: IPTV4K",&Flix HD
+#EXTINF:-1 tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="Malaysia: IPTV4K",&Flix HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/141.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="Malaysia: IPTV4K",&Prive HD
+#EXTINF:-1 tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="Malaysia: IPTV4K",&Prive HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/63.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="Malaysia: IPTV4K",Star Movies (FHD)
+#EXTINF:-1 tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="Malaysia: IPTV4K",Star Movies (FHD)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/220.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Malaysia: IPTV4K",Star Movie Select
+#EXTINF:-1 tvg-name="Star Movie Select (Testing)" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="Malaysia: IPTV4K",Star Movie Select
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/221.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="Malaysia: IPTV4K",SONY Pix (FHD)
+#EXTINF:-1 tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="Malaysia: IPTV4K",SONY Pix (FHD)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/223.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="Malaysia: IPTV4K",MNX HD (FHD)
+#EXTINF:-1 tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="Malaysia: IPTV4K",MNX HD (FHD)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/222.ts
 #EXTINF:-1 tvg-id="412" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="Malaysia: IPTV4K",Cinemax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/65.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="Malaysia: IPTV4K",Galaxy
+#EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="Malaysia: IPTV4K",Galaxy
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/66.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="Malaysia: IPTV4K",Galaxy Premium
+#EXTINF:-1 tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="Malaysia: IPTV4K",Galaxy Premium
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/67.ts
 #EXTINF:-1 tvg-id="401" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="Malaysia: IPTV4K",HITS Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/68.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="Malaysia: IPTV4K",CinemaWorld
+#EXTINF:-1 vg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="Malaysia: IPTV4K",CinemaWorld
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/69.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="Malaysia: IPTV4K",Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="Malaysia: IPTV4K",Thrill
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/70.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="Malaysia: IPTV4K",IMC
+#EXTINF:-1 tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="Malaysia: IPTV4K",IMC
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/71.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="Malaysia: IPTV4K",Flik
+#EXTINF:-1 tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="Malaysia: IPTV4K",Flik
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/72.ts
