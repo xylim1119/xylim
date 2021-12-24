@@ -680,7 +680,7 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/248.ts
 #EXTINF:-1 tvg-id="404" tvg-name="Astro BOO (ENG)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="Malaysia: IPTV4K",Astro BOO (ENG)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/33.ts
-#EXTINF:-1 tvg-id="CHN tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malaysia: IPTV4K",NET.
+#EXTINF:-1 tvg-id="CHN tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="Malaysia: IPTV4K",NET
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/41.ts
 #EXTINF:-1 tvg-id="CHN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="Malaysia: IPTV4K",ANTV
