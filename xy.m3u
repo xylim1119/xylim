@@ -561,7 +561,6 @@ https://conversant.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/140.ts
 
---------------------- IPTV4K -----------------------
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia: IPTV4K",TV1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
