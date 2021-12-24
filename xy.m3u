@@ -561,6 +561,7 @@ https://conversant.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/140.ts
 
+--------------------- IPTV4K -----------------------
 
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia: IPTV4K",TV1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
@@ -1135,7 +1136,7 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/182.ts
 #EXTINF:-1 tvg-id="305" tvg-name="MTV Live HD" tvg-logo="https://i.ibb.co/NN94bf1/ghg.png" group-title="Malaysia: IPTV4K",MTV Live HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/206.ts
-#EXTINF:-1 tvg-id="CHN" tvg-name="Channel V. Int" tvg-logo="https://i.ibb.co/Lp37NT5/fs.png" group-title="Malaysia: IPTV4K",Channel V. Int
+#EXTINF:-1 tvg-id="CHN" tvg-name="Channel V. Int" tvg-logo="https://i.ibb.co/Lp37NT5/fs.png" group-title="Malaysia: IPTV4K",Channel V
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/205.ts
 #EXTINF:-1 tvg-id="CHN" tvg-name="Prambors" tvg-logo="https://i.ibb.co/jfZWXXK/prambos.jpg" group-title="Malaysia: IPTV4K",Prambors
