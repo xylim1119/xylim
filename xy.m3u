@@ -1004,3 +1004,150 @@ http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/131.ts
 #EXTINF:-1 tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="Malaysia: IPTV4K",BabyFirst
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/132.ts
+#EXTINF:-1 tvg-id="393" tvg-name="Sony One (E)" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Malaysia: IPTV4K",Sony One (E)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/133.ts
+#EXTINF:-1 tvg-name="Sony One (M)" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="Malaysia: IPTV4K",Sony One (M)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/134.ts
+#EXTINF:-1 tvg-id="395" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="Malaysia: IPTV4K",tvN
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/135.ts
+#EXTINF:-1 tvg-id="416" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="Malaysia: IPTV4K",tvN Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/136.ts
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="Malaysia: IPTV4K",Arirang
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/137.ts
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World_A" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="Malaysia: IPTV4K",KBS World_A
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/138.ts
+#EXTINF:-1 tvg-id="392" tvg-name="KBS World_B" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="Malaysia: IPTV4K",KBS World_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/139.ts
+#EXTINF:-1 tvg-name="K+" tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="Malaysia: IPTV4K",K+
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/140.ts
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV" tvg-logo="https://i.ibb.co/tLWCYVZ/SUN.png" group-title="Malaysia: IPTV4K",SUN TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/215.ts
+#EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://i.ibb.co/CWVsM3N/sonymax.png" group-title="Malaysia: IPTV4K",Sony MAX
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/218.ts
+#EXTINF:-1 tvg-name="ZEE Cinema" tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="Malaysia: IPTV4K",ZEE Cinema
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/212.ts
+#EXTINF:-1 tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="Malaysia: IPTV4K",ZEE Bioskop
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/142.ts
+#EXTINF:-1 tvg-name="Zing" tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="Malaysia: IPTV4K",Zing
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/307.ts
+#EXTINF:-1 tvg-id="116" tvg-name="Colors HD" tvg-logo="https://i.imgur.com/wzmYdjQ.png" group-title="Malaysia: IPTV4K",Colors HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/421.ts
+#EXTINF:-1 tvg-id="251" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Malaysia: IPTV4K",Bollyone HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/143.ts
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen" tvg-logo="https://i.ibb.co/V9YCG5H/vinmeen.png" group-title="Malaysia: IPTV4K",Astro Vinmeen
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/144.ts
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="Malaysia: IPTV4K",Astro Vaanavil
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/145.ts
+#EXTINF:-1 tvg-id="CHN" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="Malaysia: IPTV4K",RTM Sports
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/146.ts
+#EXTINF:-1 tvg-id="801" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="Malaysia: IPTV4K",Arena
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/147.ts
+#EXTINF:-1 tvg-id="802" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="Malaysia: IPTV4K",Arena 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/420.ts
+#EXTINF:-1 tvg-id="811" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="Malaysia: IPTV4K",ASSP_A
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/148.ts
+#EXTINF:-1 tvg-id="811" tvg-name="ASSP_B" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="Malaysia: IPTV4K",ASSP_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/233.ts
+#EXTINF:-1 tvg-id="812" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="Malaysia: IPTV4K",ASSP2_A
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/149.ts
+#EXTINF:-1 tvg-id="812" tvg-name="ASSP2_B" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="Malaysia: IPTV4K",ASSP2_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/234.ts
+#EXTINF:-1 tvg-id="813" tvg-name="ASSP3_A" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia: IPTV4K",ASSP3_A
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/150.ts
+#EXTINF:-1 tvg-id="813" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="Malaysia: IPTV4K",ASSP3_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/232.ts
+#EXTINF:-1 tvg-id="814" tvg-name="ASSP4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Malaysia: IPTV4K",ASSP4
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/151.ts
+#EXTINF:-1 tvg-id="814" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Malaysia: IPTV4K",ASSP4_B
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/249.ts
+#EXTINF:-1 tvg-id="815" tvg-name="ASSP5" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="Malaysia: IPTV4K",ASSP5
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/413.ts
+#EXTINF:-1 tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="Malaysia: IPTV4K",beIN Sports 1 ID
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/155.ts
+#EXTINF:-1 tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="Malaysia: IPTV4K",beIN Sports 2 ID
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/156.ts
+#EXTINF:-1 tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="Malaysia: IPTV4K",Champions 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/157.ts
+#EXTINF:-1 tvg-name="Champions 2" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="Malaysia: IPTV4K",Champions 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/158.ts
+#EXTINF:-1 tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Malaysia: IPTV4K",Usee Sport 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/241.ts
+#EXTINF:-1 tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Malaysia: IPTV4K",Usee Sport 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/242.ts
+#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="Malaysia: IPTV4K",SPOTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/418.ts
+#EXTINF:-1 tvg-id="821" tvg-name="WWE" tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="Malaysia: IPTV4K",WWE
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/350.ts
+#EXTINF:-1 tvg-id="820" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="Malaysia: IPTV4K",Eurosport
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/328.ts
+#EXTINF:-1 tvg-id="823" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="Malaysia: IPTV4K",Rugby TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/337.ts
+#EXTINF:-1 tvg-id="822" tvg-name="NBC Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="Malaysia: IPTV4K",NBC Golf
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/159.ts
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="Malaysia: IPTV4K",NBA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/160.ts
+#EXTINF:-1 tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="Malaysia: IPTV4K",Fight Sport
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/161.ts
+#EXTINF:-1 tvg-id="800" tvg-name="eGG TV" tvg-logo="https://i.ibb.co/vkvd2d6/swce.png" group-title="Malaysia: IPTV4K",eGG TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/162.ts
+#EXTINF:-1 tvg-id="618" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="Malaysia: IPTV4K",Baby TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/182.ts
+#EXTINF:-1 tvg-id="305" tvg-name="MTV Live HD" tvg-logo="https://i.ibb.co/NN94bf1/ghg.png" group-title="Malaysia: IPTV4K",MTV Live HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/206.ts
+#EXTINF:-1 tvg-name="Channel V. Int" tvg-logo="https://i.ibb.co/Lp37NT5/fs.png" group-title="Malaysia: IPTV4K",Channel V. Int
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/205.ts
+#EXTINF:-1 tvg-name="Prambors" tvg-logo="https://i.ibb.co/jfZWXXK/prambos.jpg" group-title="Malaysia: IPTV4K",Prambors
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/207.ts
+#EXTINF:-1 tvg-name="i-Konser" tvg-logo="https://i.ibb.co/7Yq0Ygw/ikonser.jpg" group-title="Malaysia: IPTV4K",i-Konser
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/204.ts
+#EXTINF:-1 tvg-name="MNC Sport 1" tvg-logo="https://i.imgur.com/0o8Md8I.png" group-title="Malaysia: IPTV4K",MNC Sport 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/280.ts
