@@ -561,3 +561,46 @@ https://conversant.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://139.99.90.11:80/live/1159189903/4938860969/140.ts
 
+
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia: IPTV4K",TV1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/1.ts
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 (FHD)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="Malaysia: IPTV4K",TV1 (FHD)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/2.ts
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia: IPTV4K",TV2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/3.ts
+#EXTINF:-1 tvg-id="102" tvg-name="TV2 (FHD)" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="Malaysia: IPTV4K",TV2 (FHD)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/4.ts
+#EXTINF:-1 tvg-id="103" tvg-name="TV3(A)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia: IPTV4K",TV3(A)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/5.ts
+#EXTINF:-1 tvg-id="103" tvg-name="TV3(B)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia: IPTV4K",TV3(B)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/6.ts
+#EXTINF:-1 tvg-id="103" tvg-name="TV3(C)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="Malaysia: IPTV4K",TV3(C)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/7.ts
+#EXTINF:-1 tvg-id="CHN" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="Malaysia: IPTV4K",TV6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/203.ts
+#EXTINF:-1 tvg-id="147" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="Malaysia: IPTV4K",DIDIK TV KPM
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/8.ts
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="Malaysia: IPTV4K",8TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/9.ts
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia: IPTV4K",TV9
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/10.ts
+#EXTINF:-1 tvg-id="149" tvg-name="TV9(B)" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="Malaysia: IPTV4K",TV9(B)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/11.ts
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="Malaysia: IPTV4K",TVS
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/214.ts
+#EXTINF:-1 tvg-id="146" tvg-name="Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="Malaysia: IPTV4K",Okey
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.79.248.143:25510/live/@zeehanzgadget/uHt8hXD8kK/12.ts
